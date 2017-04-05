@@ -25,6 +25,7 @@
 
 @-webkit-keyframes noAnim {}
 @keyframes noAnim {}
+@keyframes tempAnim {}
 	
 	body {
 		font: 1em "Open Sans", sans-serif;
