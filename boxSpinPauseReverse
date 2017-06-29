@@ -92,7 +92,6 @@
 		perspective-origin: 50% 50%;
 		perspective: 100000px;
 		transform-style: preserve-3d;
-/*		border:2px dotted #f00; */
 	}
 	.dFace {										/* shared card values */
 		backface-visibility: hidden; 
