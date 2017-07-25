@@ -89,6 +89,7 @@
 		height:500px; */
 		padding:80px;
 /*		perspective-origin: center center;  */
+/* post drop */
 		perspective-origin: 50% 50%;
 		perspective: 100000px;
 		transform-style: preserve-3d;
