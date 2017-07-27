@@ -55,7 +55,8 @@
   		  -o-animation: spinY 6s infinite linear;  
   		   animation: spinY 6s infinite linear;  
   			
-  		-webkit-transition: all 2s linear;					/* propertyEffected duration iterationType */
+  		-webkit-transition: all 2s linear;					
+		/* propertyEffected duration iterationType */
   		 -moz-transition: all 2s linear;
   		  -o-transition: all 2s linear;
   		    transition: all 2s linear;
